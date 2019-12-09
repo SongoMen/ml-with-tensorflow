@@ -10,7 +10,7 @@ from __future__ import print_function
 # tree handles this case.
 training_data = [
     ['Green', 3, 'Apple'],
-    ['Yellow', 3, 'Apple'],
+    ['Yellow', 2, 'Apple'],
     ['Red', 1, 'Grape'],
     ['Red', 1, 'Grape'],
     ['Yellow', 3, 'Lemon'],
